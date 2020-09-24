@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Album
+
+  Created by Danya on 9/21/20.
+  Copyright © 2020 Danya. All rights reserved.
+*/
+
+"albumListNavigationTitle" = "Album List";
+"albumDetailNavigationTitle" = "Album Details";
+"alertErrorTitle" = "Oops...";
+"alertErrorMessage" = "Something went Wrong...";
+"ok" = "Ok";
+"goToAlbumTitle" = "Go To Album";
+"albumName" = "ALBUM NAME : ";
+"artistName" = "ARTIST NAME : ";
+"releaseDate" = "RELEASE DATE : ";
